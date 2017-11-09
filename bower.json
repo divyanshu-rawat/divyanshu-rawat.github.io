@@ -1,0 +1,22 @@
+{
+  "name": "Divyanshu Portfolio",
+  "authors": [
+    "Divyanshu rawat"
+  ],
+  "description": "My Portfolio",
+  "main": "index.html",
+  "keywords": [
+    "Font",
+    "awesome",
+    "particle.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://divyanshurawat.herokuapp.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
