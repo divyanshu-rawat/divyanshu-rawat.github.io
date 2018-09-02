@@ -34,7 +34,7 @@ main {
 	position: absolute;
 	top: 0;
 	width: 100%;
-	z-index: -1;
+	z-index: 0;
 }
 
 /* HEADER */
@@ -58,7 +58,7 @@ main header > h1 {
 }
 
 main header > h1 > span {
-	color: #33a7ff;
+	color: #ff3333;
 }
 
 main .menu {
@@ -85,7 +85,7 @@ main .menu li {
 main .menu li a,
 main .menu li a:active,
 main .menu li:visited {
-	color: #777;
+	color: #ff3333;
 	cursor: pointer;
 	font-weight: normal;
 	font-size: 1em;
@@ -96,7 +96,7 @@ main .menu li:visited {
 }
 
 main .menu li:hover > a {
-	color: #33a7ff;
+	color: #ff3333;
 }
 
 main .menu li:first-child {
@@ -108,7 +108,7 @@ main .menu li:hover:after {
 }
 
 main .menu li:after {
-	background: #33a7ff;
+	background: black;
 	bottom: -8px;
 	content: "";
 	display: block;
